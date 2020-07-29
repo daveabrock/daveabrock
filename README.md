@@ -13,7 +13,7 @@ Some of my favorites include:
 - [Party in the cloud with feature flags and Azure App Configuration](https://daveabrock.com/2020/06/17/use-feature-flags-azure-app-config)
 - [C# 9 Deep Dive: Records](https://daveabrock.com/2020/07/06/c-sharp-9-deep-dive-records)
 
-I also run a weekly newsletter called [The .NET Stacks](https://dotnetstacks.com/register). I keep you up to date on everything in the .NET community, but also provide thoughts on various topics and trends. It isn't just a link blast! I work hard on it and if you are into .NET give it a shot!
+I also run a weekly newsletter called [The .NET Stacks](https://dotnetstacks.com). I keep you up to date on everything in the .NET community, but also provide thoughts on various topics and trends. It isn't just a link blast! I work hard on it and if you are into .NET give it a shot!
 
 Ways to reach out:
 
