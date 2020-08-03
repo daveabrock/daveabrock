@@ -1,6 +1,6 @@
 ### Hello, fellow nerds!👋
 
-My name is Dave Brock. I'm a software engineer who focuses on Microsoft and JavaScript technologies. Hopefully soon, I can update this to be more ... fun?
+My name is Dave Brock. I'm a software engineer, writer, and public speaker who focuses on Microsoft and JavaScript technologies. Hopefully soon, I can update this to be more ... fun?
 
 I most enjoy working the C#, .NET Core, and TypeScript.
 
