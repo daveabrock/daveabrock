@@ -2,7 +2,7 @@
 
 My name is Dave Brock. I'm a software engineer, writer, and public speaker who focuses on Microsoft and JavaScript technologies. Hopefully soon, I can update this to be more ... fun?
 
-I most enjoy working the C#, .NET Core, and TypeScript.
+I most enjoy working on C#, .NET Core, and TypeScript.
 
 At my site, [daveabrock.com](https://daveabrock.com), I write a lot about .NET and all the things I am trying to learn.
 
