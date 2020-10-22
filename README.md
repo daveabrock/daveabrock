@@ -4,7 +4,7 @@ I'm [Dave Brock](https://daveabrock.com/). I'm a software engineer, writer, and 
 
 By day, I help development teams work with Azure. By night, I enjoy writing, speaking, and hacking on various projects in the .NET, C#, and Azure areas.
 
-At my site, [daveabrock.com](https://daveabrock.com), I write a lot about .NET and all the things I am trying to learn.
+At my site, [daveabrock.com](https://daveabrock.com), I write a lot about .NET and all the things I am trying to learn. I'm driven by the mindset that *if you aren't learning, you aren't growing*.
 
 My favorite posts include:
 
