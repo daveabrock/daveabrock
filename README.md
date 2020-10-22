@@ -25,7 +25,7 @@ Ways to reach out:
 
 - [twitter](https://twitter.com/daveabrock)
 - [blog](https://daveabrock.com)
-- [newsletter](https://dotnetstacks.com/register)
+- [newsletter](https://dotnetstacks.com)
 
 <!--
 **daveabrock/daveabrock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
