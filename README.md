@@ -8,6 +8,11 @@ At my site, [daveabrock.com](https://daveabrock.com), I write a lot about .NET a
 
 My favorite posts include:
 
+- [Blast Off with Blazor, Azure Functions, and Azure Static Web Apps](https://daveabrock.com/2020/10/13/azure-functions-static-apps-blazor)
+- [Improve rendering performance with Blazor component virtualization](https://daveabrock.com/2020/10/20/blazor-component-virtualization)
+- [Use CSS isolation in your Blazor projects](https://daveabrock.com/2020/09/10/blazor-css-isolation)
+- [Use Project Tye to simplify your .NET microservice development experience](https://daveabrock.com/2020/08/19/microservices-with-tye-1)
+- [How To Not Hate JavaScript](https://daveabrock.com/2020/09/02/how-to-not-hate-javascript)
 - [C# 8, A Year Late](https://daveabrock.com/2020/03/29/csharp-8-year-late)
 - [Full-Stack Development in Visual Studio Code with ASP.NET Core](https://daveabrock.com/2018/03/06/full-stack-development-in-vs-code-with-asp-net-core)
 - [First Look: C# Source Generators](https://daveabrock.com/2020/05/08/first-look-c-sharp-generators)
